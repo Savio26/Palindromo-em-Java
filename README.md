@@ -37,4 +37,3 @@ Já "casa" ou "java" não contam, porque invertendo muda tudo.
 Fiz esse projeto pra fixar melhor manipulação de string em Java, principalmente os métodos charAt() e length(), e também pra treinar lógica com laços e condicionais.
 =======
 Programa em Java que verifica se uma palavra é um palíndromo, comparando os caracteres do início e do fim da string. Projeto feito pra praticar Scanner, laços, condicionais e manipulação de String com charAt() e length().
->>>>>>> a8f36dbb751b9ed0d35e83c9e5a9aa9eb2f77276
