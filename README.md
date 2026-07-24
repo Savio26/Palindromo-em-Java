@@ -1,5 +1,5 @@
 # Palíndromo em Java
-<<<<<<< HEAD
+
 
 Projetinho que fiz pra treinar manipulação de String em Java. A ideia é simples: o programa recebe uma palavra e verifica se ela é um palíndromo, comparando os caracteres do começo com os do final.
 
